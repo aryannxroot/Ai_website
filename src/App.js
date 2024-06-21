@@ -1,5 +1,11 @@
 import React from 'react'
 
+//components
+import{ CTA, Brand, Navbar } from './components';
+
+//containers
+import{ Footer, BLog, Possibility, Features, Header, WhatGPT3 } from './containers';
+
 const App = () => {
   return (
     <div>
