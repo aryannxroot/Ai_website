@@ -8,4 +8,4 @@ Aryan (@aryannxroot)
 
 ### MIT LICENSE
 
-This project is licensed under the MIT License.You can check here.[MIT LICENSE](./LICENSE)
+This project is licensed under the MIT License.You can check here. [MIT LICENSE](./LICENSE)
