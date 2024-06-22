@@ -20,7 +20,10 @@
 
 .gpt3__possibility-content {
     flex: 1;
-
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
 }
 
 .gpt3__possibility-content :first-child {
