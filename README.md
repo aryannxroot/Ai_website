@@ -35,7 +35,7 @@ To get started with the project, clone the repository and install the necessary 
 ```bash
 git clone https://github.com/yourusername/AI_website.git
 cd AI_website
-npm install
+npm i
 ```
 
 ## Usage
