@@ -1,0 +1,126 @@
+.gpt3__cta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--gradient-bar);
+    border: none;
+    border-radius: 1rem;
+
+    padding: 3rem;
+    margin: 4rem;
+
+}
+
+/* .gpt3__cta-content {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+} */
+
+.gpt3__cta-content p {
+    font-family: var(--font-family);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #0E0E0E;
+
+}
+
+.gpt3__cta-content h3{
+    font-family: var(--font-family);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 44px;
+    color: #000;
+}
+
+.gpt3__cta-button { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* width: 100%; */
+
+    margin-left: 2rem ;
+
+}
+
+.gpt3__cta-button button {
+
+    padding: 0.5rem 1rem;
+    background: #000;
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+
+    cursor: pointer;
+
+    border: none;
+    border-radius: 40px;
+
+    min-width: 150px;
+                    
+}
+
+@media screen and (max-width: 650px) {
+
+    .gpt3__cta {
+        flex-direction: column;
+    }
+
+    .gpt3__cta-content p {
+        text-align: left;
+
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .gpt3__cta-content h3 {
+        font-size: 22px;
+        line-height: 34px;
+
+        margin: 1rem 0;
+    }
+
+    .gpt3__cta-button {
+        width: 100%;
+
+        justify-content: flex-start;
+        margin: 1rem 0 0 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .gpt3__cta {
+        flex-direction: column;
+        padding : 1rem;
+        margin: 2rem;
+    }
+
+    .gpt3__cta-content p {
+        text-align: center;
+
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .gpt3__cta-content h3 {
+        text-align: center;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin: 1rem 0;
+    }
+
+    .gpt3__cta-button {
+        width: 100%;
+
+        justify-content: center;
+        margin: 0;
+    }
+}
