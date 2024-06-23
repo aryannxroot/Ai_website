@@ -18,7 +18,7 @@ This repository contains the source code for a modern React-based AI website, sh
 
 ![AI Website Preview](./src/assets/ai.png)
 
-You can view a live demo of the website [here](#).
+You can view a live demo of the website [here](https://aryannxroot.github.io/Ai_website).
 
 ## Features
 
