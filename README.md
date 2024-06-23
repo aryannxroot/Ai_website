@@ -1,24 +1,26 @@
 
 # AI Website
 
-This repository contains the source code for a modern React-based AI website, showcasing the integration of various components and responsive design techniques.
+This repo houses the code for a cutting-edge React AI website, packed with sleek components and a dynamic, responsive design.
+Feel free to tweak it further if you want!
+This website is created for the sole purpose of enhancing my React knowlodge 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](#Figma-design)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- [Feel like Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## Figma-design
 
-![AI Website Preview](./src/assets/ai.png)
+![The site design](./Figma_Design/figma_design.png)
 
-You can view a live demo of the website [here](https://aryannxroot.github.io/Ai_website).
+Getting Excited ! Check it out ---> [GPT-3](https://aryannxroot.github.io/Ai_website).
 
 ## Features
 
@@ -33,12 +35,10 @@ You can view a live demo of the website [here](https://aryannxroot.github.io/Ai_
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/AI_website.git
+git clone https://github.com/yourusername/Ai_website.git
 cd AI_website
 npm i
 ```
-
-## Usage
 
 After installing the dependencies, you can start the development server:
 
@@ -48,83 +48,6 @@ npm start
 
 Open your browser and navigate to `http://localhost:3000` to view the website.
 
-## Folder Structure
-
-```
-AI_website/
-├── public/
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── logo192.png
-│   ├── logo512.png
-│   ├── manifest.json
-│   └── robots.txt
-├── src/
-│   ├── assets/
-│   │   ├── ai.png
-│   │   ├── atlassian.png
-│   │   ├── blog01.png
-│   │   ├── blog02.png
-│   │   ├── blog03.png
-│   │   ├── blog04.png
-│   │   ├── blog05.png
-│   │   ├── dropbox.png
-│   │   ├── google.png
-│   │   ├── logo.png
-│   │   ├── logo.svg
-│   │   ├── people.png
-│   │   ├── possibility.png
-│   │   ├── shopify.png
-│   │   └── slack.png
-│   ├── components/
-│   │   ├── article/
-│   │   │   ├── article.css
-│   │   │   └── Article.jsx
-│   │   ├── brand/
-│   │   │   ├── brand.css
-│   │   │   ├── Brand.jsx
-│   │   │   └── imports.js
-│   │   ├── CTA/
-│   │   │   ├── cta.css
-│   │   │   └── CTA.jsx
-│   │   ├── feature/
-│   │   │   ├── feature.css
-│   │   │   └── Feature.jsx
-│   │   ├── navbar/
-│   │   │   ├── navbar.css
-│   │   │   └── Navbar.jsx
-│   │   └── index.js
-│   ├── containers/
-│   │   ├── blog/
-│   │   │   ├── blog.css
-│   │   │   ├── Blog.jsx
-│   │   │   └── imports.js
-│   │   ├── features/
-│   │   │   ├── features.css
-│   │   │   └── Features.jsx
-│   │   ├── footer/
-│   │   │   ├── footer.css
-│   │   │   └── Footer.jsx
-│   │   ├── header/
-│   │   │   ├── header.css
-│   │   │   └── Header.jsx
-│   │   ├── possibility/
-│   │   │   ├── possibility.css
-│   │   │   └── Possibility.jsx
-│   │   ├── whatGPT3/
-│   │   │   ├── whatGPT3.css
-│   │   │   └── WhatGPT3.jsx
-│   ├── App.css
-│   ├── App.js
-│   ├── index.css
-│   └── index.js
-├── .gitignore
-├── LICENSE
-├── package.json
-├── package-lock.json
-└── Figma_design/
-    └── figma_design.png
-```
 
 ## Technologies Used
 
@@ -138,6 +61,10 @@ AI_website/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Author
+
+Aryan (@aryannxroot)
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+This project is licensed under the MIT License. See the [MIT LICENSE](./LICENSE) file for more information.
