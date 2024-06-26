@@ -99,7 +99,7 @@
 @media screen and (max-width: 650px) {
 
     .gpt3__whatgpt3 {
-        margin: 2rem;
+        margin: 4rem;
         padding: 2rem;
     }
 
@@ -116,11 +116,15 @@
         line-height: 40px;
     }
 }
+@media screen and (max-width: 550px) {
+    .gpt3__whatgpt3 {
+        margin: 2rem;
+    }
+}
 
 @media screen and (max-width: 350px) {
 
     .gpt3__whatgpt3 {
-        margin: 2rem;
         padding: 1rem;
     }
 
