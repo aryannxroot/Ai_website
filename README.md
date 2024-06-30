@@ -35,7 +35,7 @@ Getting Excited ! Check it out ---> [GPT-3](https://aryannxroot.github.io/Ai_web
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Ai_website.git
+git clone https://github.com/yourusername/Ai_website_ui.git
 cd Ai_website
 npm i
 ```
