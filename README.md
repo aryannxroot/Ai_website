@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![The site design](./Figma_Design/figma_design.png)
 
-Getting Excited ! Check it out ---> [GPT-3](https://aryannxroot.github.io/Ai_website).
+Getting Excited ! Check it out --->  [GPT-3](https://aryannxroot.github.io/Ai_website_ui).
 
 ## Features
 
